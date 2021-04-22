@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "module": "ES2020",
+    "strict": true,
+    "alwaysStrict": true,
+    "noImplicitAny": true,
+    "watch": true
+  }
+}
